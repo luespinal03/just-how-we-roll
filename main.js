@@ -336,13 +336,6 @@ function d20RollFunction() {
 
 }
 
-
-
-
-
-
-
-
 /****************
  * MATH SECTION *
  ****************/
